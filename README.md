@@ -5,69 +5,111 @@ Computer Science Student | AI & ML Enthusiast | Open Source Learner | Building P
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Open+Source+Learner;Building+Projects;Turning+Ideas+Into+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Building+Projects;Exploring+Open+Source;Turning+Ideas+Into+Products" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Aarohi1Agarwal&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science (Data Science) Student
-- 🌱 Currently learning **Python, Machine Learning, FastAPI, Git & GitHub**
-- 🚀 Passionate about building projects that solve real-world problems
-- 🤝 Exploring Open Source and collaborative development
-- 💡 Interested in Artificial Intelligence, Machine Learning, Backend Development, and Product Building
-- 🎯 Goal: To build impactful technology and continuously grow as a Software Engineer
+I'm **Aarohi Agarwal**, a Computer Science (Data Science) student passionate about Artificial Intelligence, Machine Learning, and software development.
 
----
+I enjoy building projects that solve real-world problems, learning modern technologies, and continuously improving my programming and problem-solving skills. I believe the best way to learn is by building practical applications and collaborating with others.
 
-## 💻 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Web
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Currently Learning
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+Currently, I'm exploring AI-powered applications, backend development, and open-source collaboration while strengthening my foundations in software engineering.
 
 ---
 
-## 📚 Currently Learning
+# 💻 Tech Stack
 
-- 🐍 Python
-- 🤖 Machine Learning
-- ⚡ FastAPI
-- 📊 Data Structures & Algorithms
-- 🌍 Open Source Contribution
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### ⚙️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+### 📚 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
+
+- Machine Learning
+- Data Structures & Algorithms
+- Open Source Collaboration
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🌟 MatterMind
-> AI Powered Material Intelligence Platform
+## 🌟 MatterMind
 
-### 💰 Expense Tracker
-> Console-based Expense Tracker built using C
+**AI Powered Material Intelligence Platform**
 
-### 🐍 Python Learning Journey
-> Collection of Python projects and problem-solving programs
+A collaborative project focused on intelligent material analysis using Artificial Intelligence, Machine Learning, and Blockchain concepts.
+
+### Highlights
+
+- Documentation Engineering
+- Modular Project Architecture
+- Git & GitHub Collaboration
+- AI & ML Integrated Workflow
+- Scalable Project Structure
 
 ---
 
-## 📊 GitHub Statistics
+## 💰 Expense Tracker
+
+A modular console-based Expense Tracker developed using C to strengthen core programming concepts.
+
+### Concepts Used
+
+- File Handling
+- Structures
+- Functions
+- Header Files
+- Modular Programming
+
+---
+
+# 🌱 Currently Learning
+
+- Machine Learning
+- FastAPI
+- Git & GitHub
+- Data Structures & Algorithms
+- Open Source Development
+
+---
+
+# 🎯 Current Goals
+
+- Build impactful AI-powered projects
+- Contribute consistently to Open Source
+- Participate in Hackathons
+- Strengthen Software Engineering fundamentals
+- Secure AI & Software Engineering internships
+- Keep learning through real-world projects
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -79,37 +121,33 @@ Computer Science Student | AI & ML Enthusiast | Open Source Learner | Building P
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Aarohi1Agarwal&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarohi1Agarwal&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
 - Tata GenAI Powered Data Analytics Job Simulation (Forage)
 
 ---
 
-## 🌐 Connect With Me
+# 🤝 Let's Connect
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/aarohi-agarwal-iiitu29">
+<a href="https://www.linkedin.com/in/aarohi-agarwal-iiitu29/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -121,18 +159,8 @@ Computer Science Student | AI & ML Enthusiast | Open Source Learner | Building P
 
 ---
 
-## 👀 Profile Views
+# 💭 Quote
 
-<p align="left">
+> *"Learning, building, and improving—one project at a time."*
 
-<img src="https://komarev.com/ghpvc/?username=Aarohi1Agarwal&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
-
-</p>
-
----
-
-## 💭 Quote
-
-> **"Building today what I once dreamed of learning."**
-
-⭐ If you like my work, feel free to explore my repositories and connect with me!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
