@@ -21,12 +21,33 @@ Computer Science Student | AI & ML Enthusiast | Open Source Learner | Building P
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,git,github,vscode,linux" />
-</p>
+<div align="center">
 
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,java&theme=dark" />
+
+<br><br>
+
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+
+<br><br>
+
+### Currently Learning
+
+<img src="https://skillicons.dev/icons?i=fastapi,react&theme=dark" />
+
+</div>
 ---
 
 ## 📚 Currently Learning
