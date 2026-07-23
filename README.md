@@ -102,7 +102,6 @@ Computer Science Student | AI & ML Enthusiast | Open Source Learner | Building P
 ## 🏆 Certifications
 
 - Tata GenAI Powered Data Analytics Job Simulation (Forage)
-- More coming soon...
 
 ---
 
