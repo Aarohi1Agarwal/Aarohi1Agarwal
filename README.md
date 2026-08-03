@@ -40,19 +40,20 @@ I'm always exploring new technologies and believe the best way to learn is by bu
 
 # 💻 Tech Stack
 
-<table>
+<table align="center">
 <tr>
-<td align="center" width="180">
 
-### 👨‍💻 Languages
+<td align="center" width="50%">
+
+<h3>👨‍💻 Languages</h3>
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts" />
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="50%">
 
-### 🎨 Frontend
+<h3>🎨 Frontend</h3>
 
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,bootstrap" />
 
@@ -64,7 +65,7 @@ I'm always exploring new technologies and believe the best way to learn is by bu
 
 <td align="center">
 
-### ⚙️ Backend
+<h3>⚙️ Backend</h3>
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
 
@@ -72,13 +73,13 @@ I'm always exploring new technologies and believe the best way to learn is by bu
 
 <td align="center">
 
-### 🤖 AI / ML
+<h3>🤖 AI / ML</h3>
 
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 
 <br><br>
 
-Pandas • NumPy • Scikit-learn
+<sub>Pandas • NumPy • Scikit-learn</sub>
 
 </td>
 
@@ -88,19 +89,19 @@ Pandas • NumPy • Scikit-learn
 
 <td align="center">
 
-### ⛓️ Blockchain
+<h3>⛓️ Blockchain</h3>
 
 <img src="https://skillicons.dev/icons?i=solidity" />
 
 <br><br>
 
-Hardhat • Ethers.js
+<sub>Hardhat • Ethers.js</sub>
 
 </td>
 
 <td align="center">
 
-### 🗄️ Databases
+<h3>🗄️ Databases</h3>
 
 <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 
@@ -112,7 +113,7 @@ Hardhat • Ethers.js
 
 <td colspan="2" align="center">
 
-### 🛠️ Tools
+<h3>🛠️ Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
@@ -293,39 +294,31 @@ AI-powered platform for analyzing cooking oil quality and providing healthier us
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Aarohi1Agarwal/Aarohi1Agarwal/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
----
-
 # 🌱 Currently Exploring
 
-<table>
+<table align="center">
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Artificial Intelligence
+<h3>🤖 Artificial Intelligence</h3>
 
-- Machine Learning
-- AI Applications
-- Prompt Engineering
-- LLM Fundamentals
+• Machine Learning<br>
+• AI Applications<br>
+• Prompt Engineering<br>
+• LLM Fundamentals
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ Backend Development
+<h3>⚙️ Backend Development</h3>
 
-- FastAPI
-- REST APIs
-- Authentication
-- Database Design
+• FastAPI<br>
+• REST APIs<br>
+• Authentication<br>
+• Database Design
 
 </td>
 
@@ -333,25 +326,25 @@ AI-powered platform for analyzing cooking oil quality and providing healthier us
 
 <tr>
 
-<td>
+<td valign="top">
 
-### ⛓ Blockchain
+<h3>⛓️ Blockchain</h3>
 
-- Solidity
-- Hardhat
-- Smart Contracts
-- Web3 Basics
+• Solidity<br>
+• Hardhat<br>
+• Smart Contracts<br>
+• Web3 Basics
 
 </td>
 
-<td>
+<td valign="top">
 
-### 🌍 Open Source
+<h3>🌍 Open Source</h3>
 
-- Documentation
-- Feature Development
-- Git Workflows
-- Team Collaboration
+• Documentation<br>
+• Feature Development<br>
+• Git Workflows<br>
+• Team Collaboration
 
 </td>
 
