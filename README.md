@@ -11,11 +11,6 @@ AI • Backend • Open Source • Building Real-World Products
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Aarohi1Agarwal&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Aarohi1Agarwal?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/Aarohi1Agarwal?affiliations=OWNER&style=for-the-badge"/>
-
 </p>
 
 ---
@@ -227,15 +222,9 @@ AI-powered platform for analyzing cooking oil quality and providing healthier us
 # 📊 GitHub Analytics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aarohi1Agarwal&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aarohi1Agarwal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarohi1Agarwal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-<img width="65%" src="https://streak-stats.demolab.com?user=Aarohi1Agarwal&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarohi1Agarwal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
