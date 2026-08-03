@@ -115,7 +115,7 @@ I'm always exploring new technologies and believe the best way to learn is by bu
 
 <h3>🛠️ Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </td>
 
@@ -278,9 +278,7 @@ AI-powered platform for analyzing cooking oil quality and providing healthier us
 </p>
 
 <p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aarohi1Agarwal&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarohi1Agarwal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
