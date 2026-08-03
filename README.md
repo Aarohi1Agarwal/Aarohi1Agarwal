@@ -187,44 +187,15 @@ AI-powered platform for analyzing cooking oil quality and providing healthier us
 
 ---
 
-# 🌱 Currently Learning
-
-<table>
-
-<tr>
-
-<td>🤖 Machine Learning</td>
-
-<td>⚙️ FastAPI</td>
-
-</tr>
-
-<tr>
-
-<td>📚 Data Structures & Algorithms</td>
-
-<td>🌍 Open Source Development</td>
-
-</tr>
-
-<tr>
-
-<td>☁️ Backend Development</td>
-
-<td>🔒 Blockchain Development</td>
-
-</tr>
-
-</table>
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aarohi1Agarwal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarohi1Agarwal&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aarohi1Agarwal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aarohi1Agarwal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aarohi1Agarwal&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
