@@ -1,90 +1,146 @@
 <h1 align="center">Hi 👋, I'm Aarohi Agarwal</h1>
 
 <h3 align="center">
-Computer Science Student | AI & ML Enthusiast | Open Source Learner | Building Projects & Turning Ideas into Products
+AI • Backend • Open Source • Building Real-World Products
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Building+Projects;Exploring+Open+Source;Turning+Ideas+Into+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student;AI+%26+Backend+Developer;Open+Source+Contributor;Hackathon+Builder;Always+Learning+Something+New+🚀" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Aarohi1Agarwal&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Aarohi%20Agarwal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20|%20Backend%20|%20Open%20Source%20|%20Hackathons&descAlignY=58"/>
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-I'm **Aarohi Agarwal**, a Computer Science (Data Science) student passionate about Artificial Intelligence, Machine Learning, and software development.
+Hi! I'm **Aarohi Agarwal**, a Computer Science (Data Science) student passionate about **Artificial Intelligence, Backend Development, Open Source, and Software Engineering.**
 
-I enjoy building projects that solve real-world problems, learning modern technologies, and continuously improving my programming and problem-solving skills. I believe the best way to learn is by building practical applications and collaborating with others.
+I enjoy transforming ideas into practical software by combining AI, backend technologies, and scalable architectures.
 
-Currently, I'm exploring AI-powered applications, backend development, and open-source collaboration while strengthening my foundations in software engineering.
+Currently, I'm contributing to open-source projects, participating in hackathons, and building AI-powered applications that solve real-world problems.
+
+> **"I believe the best way to learn is by building."**
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Currently Working On
 
-### 👨‍💻 Programming Languages
+- 🤖 AgentTrust OS
+- 🌍 MatterMind
+- 💳 SubSense AI
+- 🌱 Open Source Contributions
+- ⚡ AI-powered Applications
+- 🏆 National Hackathons
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java" />
-</p>
+---
 
-### 🌐 Web Development
+# 💼 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+## 🤖 AgentTrust OS
 
-### ⚙️ Tools & Technologies
+AI-powered programmable credit infrastructure using AI and Blockchain.
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+**Tech Stack**
 
-### 📚 Currently Learning
+React • FastAPI • PostgreSQL • Solidity • Hardhat
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi" />
-</p>
+**Highlights**
 
-- Machine Learning
-- Data Structures & Algorithms
+- Governance Module
+- Smart Contracts
+- Repayment Monitoring
+- Blockchain Security
+
+---
+
+## 🌍 MatterMind
+
+AI-powered Material Intelligence Platform.
+
+**Highlights**
+
+- AI & ML
+- Blockchain Integration
+- Documentation Engineering
+- Modular Architecture
 - Open Source Collaboration
 
 ---
 
-# 🚀 Featured Projects
+## 💳 SubSense AI
 
-## 🌟 MatterMind
+Financial Leak Intelligence Platform.
 
-**AI Powered Material Intelligence Platform**
+**Highlights**
 
-A collaborative project focused on intelligent material analysis using Artificial Intelligence, Machine Learning, and Blockchain concepts.
-
-### Highlights
-
-- Documentation Engineering
-- Modular Project Architecture
-- Git & GitHub Collaboration
-- AI & ML Integrated Workflow
-- Scalable Project Structure
+- Subscription Detection
+- Duplicate Detection
+- Silent Price Hikes
+- AI Recommendations
+- Financial Insights
 
 ---
 
-## 💰 Expense Tracker
+## 🛢️ FoodOil IQ
 
-A modular console-based Expense Tracker developed using C to strengthen core programming concepts.
+AI-powered food oil quality analysis platform.
 
-### Concepts Used
+---
 
-- File Handling
-- Structures
-- Functions
-- Header Files
-- Modular Programming
+## 🧾 Expense Tracker
+
+Console-based Expense Tracker built using C.
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java,js,ts,sql,c++"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,bootstrap"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
+</p>
+
+## AI / ML
+
+- Pandas
+- NumPy
+- Scikit-learn
+
+## Blockchain
+
+<p>
+<img src="https://skillicons.dev/icons?i=solidity"/>
+</p>
+
+Hardhat • Ethers.js
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
 ---
 
@@ -92,30 +148,28 @@ A modular console-based Expense Tracker developed using C to strengthen core pro
 
 - Machine Learning
 - FastAPI
-- Git & GitHub
+- Backend Development
 - Data Structures & Algorithms
 - Open Source Development
 
 ---
 
-# 🎯 Current Goals
+# 🎯 2026 Goals
 
-- Build impactful AI-powered projects
-- Contribute consistently to Open Source
-- Participate in Hackathons
-- Strengthen Software Engineering fundamentals
-- Secure AI & Software Engineering internships
-- Keep learning through real-world projects
+- 🚀 Contribute consistently to Open Source
+- 🤖 Build production-ready AI applications
+- 🏆 Win National Hackathons
+- 📚 Keep learning through real-world projects
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarohi1Agarwal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aarohi1Agarwal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarohi1Agarwal&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarohi1Agarwal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -132,35 +186,69 @@ A modular console-based Expense Tracker developed using C to strengthen core pro
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarohi1Agarwal&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarohi1Agarwal&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 Certifications
+# 🏆 GitHub Trophies
 
-- Tata GenAI Powered Data Analytics Job Simulation (Forage)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Aarohi1Agarwal&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+</p>
 
 ---
 
-# 🤝 Let's Connect
+# 🐍 Contribution Snake
 
-<p align="left">
+<p align="center">
+<img src="https://raw.githubusercontent.com/Aarohi1Agarwal/Aarohi1Agarwal/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 📜 Certifications
+
+🏆 Tata GenAI Powered Data Analytics Job Simulation (Forage)
+
+---
+
+# 🌐 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Aarohi1Agarwal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/aarohi-agarwal-iiitu29/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:aarohiagarwal987@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💭 Quote
+# 💬 Quote
 
-> *"Learning, building, and improving—one project at a time."*
+> *"Learning. Building. Contributing. Improving — one project at a time."*
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, feel free to explore my repositories and connect with me.
+
+🚀 Let's build something amazing together.
+
+</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
+</p>
