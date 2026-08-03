@@ -228,18 +228,10 @@ AI-powered platform for analyzing cooking oil quality and providing healthier us
 
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aarohi1Agarwal&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarohi1Agarwal&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
 <img width="65%" src="https://streak-stats.demolab.com?user=Aarohi1Agarwal&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-
-<img width="65%" src="https://streak-stats.demolab.com?user=Aarohi1Agarwal&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
