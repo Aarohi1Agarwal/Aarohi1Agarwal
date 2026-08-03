@@ -40,88 +40,51 @@ I'm always exploring new technologies and believe the best way to learn is by bu
 
 # 💻 Tech Stack
 
-<table align="center">
-<tr>
+### 👨‍💻 Languages
 
-<td align="center" width="50%">
-
-<h3>👨‍💻 Languages</h3>
-
+<p>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts" />
+</p>
 
-</td>
+### 🎨 Frontend
 
-<td align="center" width="50%">
-
-<h3>🎨 Frontend</h3>
-
+<p>
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,bootstrap" />
+</p>
 
-</td>
+### ⚙️ Backend
 
-</tr>
-
-<tr>
-
-<td align="center">
-
-<h3>⚙️ Backend</h3>
-
+<p>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+</p>
 
-</td>
+### 🤖 AI / ML
 
-<td align="center">
-
-<h3>🤖 AI / ML</h3>
-
+<p>
 <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
 
-<br><br>
+**Libraries:** Pandas • NumPy • Scikit-learn
 
-<sub>Pandas • NumPy • Scikit-learn</sub>
+### ⛓️ Blockchain
 
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<h3>⛓️ Blockchain</h3>
-
+<p>
 <img src="https://skillicons.dev/icons?i=solidity" />
+</p>
 
-<br><br>
+**Tools:** Hardhat • Ethers.js
 
-<sub>Hardhat • Ethers.js</sub>
+### 🗄️ Databases
 
-</td>
-
-<td align="center">
-
-<h3>🗄️ Databases</h3>
-
+<p>
 <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+</p>
 
-</td>
+### 🛠️ Developer Tools
 
-</tr>
-
-<tr>
-
-<td colspan="2" align="center">
-
-<h3>🛠️ Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</td>
-
-</tr>
-
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
 
 ---
 
@@ -264,11 +227,13 @@ AI-powered platform for analyzing cooking oil quality and providing healthier us
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aarohi1Agarwal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarohi1Agarwal&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
+<p align="center">
+<img width="65%" src="https://streak-stats.demolab.com?user=Aarohi1Agarwal&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
